@@ -14,3 +14,5 @@ It will be soon released, and this site will be updated. Stay tuned.
 Github project: [github.com/digimakergo/digimaker](https://github.com/digimakergo/digimaker)
 
 Ongoing documentation: [https://digimaker.org/doc](https://digimaker.org/doc)
+
+Demo project: [github.com/digimakergo/dmdemo](https://github.com/digimakergo/dmdemo)
