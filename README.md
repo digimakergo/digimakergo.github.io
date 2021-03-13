@@ -2,7 +2,7 @@
 
 Digimaker is a Content Management Framework which balances simplicity & flexibility with high performance. Written in Golang.
 
-It will be soon released, and this site will be updated. Stay tuned on [github.com/digimakergo/digimaker](https://github.com/digimakergo/digimaker)
+It will be soon released, and this site will be updated. Stay tuned.
 
 
 ### Simple
@@ -11,5 +11,6 @@ It will be soon released, and this site will be updated. Stay tuned on [github.c
 
 ### From simple website to complex solution
 
+Github project:[github.com/digimakergo/digimaker](https://github.com/digimakergo/digimaker)
 
-Check ongoing documentation at [https://digimaker.org/doc](https://digimaker.org/doc)
+Ongoing documentation: [https://digimaker.org/doc](https://digimaker.org/doc)
