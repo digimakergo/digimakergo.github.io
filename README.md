@@ -2,7 +2,7 @@
 
 A Content Management Framework which balances simplicity & flexibility with high performance. Written in Golang.
 
-It will be soon released. Stay tuned [github.com/digimakergo/digimaker](github.com/digimakergo/digimaker)
+It will be soon released. Stay tuned on [github.com/digimakergo/digimaker](https://github.com/digimakergo/digimaker)
 
 
 ### Simple
