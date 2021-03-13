@@ -1,4 +1,4 @@
-## Digimaker CMF - A Progressive Content Management Framework
+## Progressive CMF
 
 A Content Management Framework which balances simplicity & flexibility with high performance. Written in Golang.
 
