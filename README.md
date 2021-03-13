@@ -1,6 +1,6 @@
-## Progressive CMF
 
-A Content Management Framework which balances simplicity & flexibility with high performance. Written in Golang.
+
+Digimaker is a Content Management Framework which balances simplicity & flexibility with high performance. Written in Golang.
 
 It will be soon released. Stay tuned on [github.com/digimakergo/digimaker](https://github.com/digimakergo/digimaker)
 
@@ -9,7 +9,7 @@ It will be soon released. Stay tuned on [github.com/digimakergo/digimaker](https
 
 ### High performance
 
-### From prototype to middle size solution
+### From simple website to complex solution
 
 
 Check documentation at [https://digimaker.org/doc](https://digimaker.org/doc)
