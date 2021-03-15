@@ -4,6 +4,7 @@ Digimaker is a Content Management Framework which balances simplicity & flexibil
 
 It will be soon released, and this site will be updated. Stay tuned.
 
+See our ongoing [documentation](https://digimaker.org/doc).
 
 ### Simple
 
@@ -11,8 +12,8 @@ It will be soon released, and this site will be updated. Stay tuned.
 
 ### From simple website to complex solution
 
+
 Github project: [github.com/digimakergo/digimaker](https://github.com/digimakergo/digimaker)
 
-Ongoing documentation: [https://digimaker.org/doc](https://digimaker.org/doc)
 
 Demo project: [github.com/digimakergo/dmdemo](https://github.com/digimakergo/dmdemo)
