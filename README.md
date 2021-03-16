@@ -12,7 +12,7 @@ See our ongoing [documentation](https://digimaker.org/doc). [Github project](htt
 
 - High performance
 
-- From simple website to complex solution
+- From small website/web application to complex solution
 
 
 ### Why CMF comparing to typical CMS?
