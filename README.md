@@ -25,6 +25,6 @@ Because anything related to content is handled by digimaker and things not relat
 Content means most common information like articles, documents, users, products, images&videos etc, which need direct backend input and frontend display with permission control.
 
 ### Why call it progressive CMF?
-It means with this framework, your solution can evolve from a small site/application to a complex solution, without hassal(keep good code quality, easy maintainability & extendability).
+It means with this framework, your solution/product can evolve from a small site/application to a complex solution, without hassal(keep good code quality, easy maintainability & extendability).
 
 
