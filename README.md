@@ -18,8 +18,6 @@ See our ongoing [documentation](https://digimaker.org/doc). [Github project](htt
 ### Why CMF comparing to CMS?
 Because it is the way to keep solution quality and have more control in your hand
 
-### Is CMF for website?
-Not
 
 ### Why CMF comparing to pure web framework development approach?
 Becuase anything related to content is handled by digimaker and things not related to content can be done with web framework well and ingegrated well.
