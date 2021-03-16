@@ -16,7 +16,7 @@ See our ongoing [documentation](https://digimaker.org/doc). [Github project](htt
 
 
 ### Why CMF comparing to typical CMS?
-A typical CMS has a lot of features, but sometimes they are hard to extend(especially in enterprise or when systems are complex). We belive that non-content features(eg. e-commerce) should be done by services or via integrating with other system, not in products(CMS), while the content related features are better done via a framework way to have minimal&open architecture, thus give freedom&quality to solution part.
+A typical CMS has a lot of features, but sometimes they are hard to extend(especially in enterprise or when systems are complex). We believe that non-content features(eg. e-commerce) should be done by services or via integrating with other system, not in products(CMS), while the content related features are better done via a framework way to have minimal&open architecture, thus give freedom&quality to solution part.
 
 ### Why CMF comparing to pure web framework development approach?
 Because anything related to content is handled by digimaker and things not related to content can be done via web framework and the CMF integrate with web framework well.
