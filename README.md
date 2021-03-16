@@ -15,12 +15,12 @@ See our ongoing [documentation](https://digimaker.org/doc). [Github project](htt
 - From simple website to complex solution
 
 
-### Why CMF comparing to CMS?
-Because it is the way to keep solution quality and have more control in your hand
+### Why CMF comparing to typical CMS?
+Because it is the way to have good solution quality and more code control in your hand
 
 
 ### Why CMF comparing to pure web framework development approach?
-Becuase anything related to content is handled by digimaker and things not related to content can be done with web framework well and ingegrated well.
+Because anything related to content is handled by digimaker and things not related to content can be done via web framework well and the CMF integrate with web framework well.
 
 ### What does the content means here?
-Content means most common information like article, document, user, product, images&videos etc, which needs simple backend input and frontend display.
+Content means most common information like article, document, user, product, images&videos etc, which need direct backend input and frontend display.
