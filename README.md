@@ -22,7 +22,7 @@ A typical CMS has a lot of features, but sometimes they are hard to extend(espec
 Because anything related to content is handled by digimaker and things not related to content can be done via web framework and the CMF integrate with web framework well.
 
 ### What does the content mean here?
-Content means most common information like article, document, user, product, images&videos etc, which need direct backend input and frontend display with permission control.
+Content means most common information like articles, documents, users, products, images&videos etc, which need direct backend input and frontend display with permission control.
 
 ### Why call it progressive CMF?
 It means with this framework, your solution can evolve from a small site/application to a complex solution, without hassal(keep good code quality, easy maintainability & extendability).
