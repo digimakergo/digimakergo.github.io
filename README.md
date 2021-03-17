@@ -8,7 +8,7 @@ It will be soon released, and this site will be updated. Stay tuned.
 
 See our ongoing [documentation](https://digimaker.org/doc). [Github project](https://github.com/digimakergo/digimaker), [Demo project](https://github.com/digimakergo/dmdemo)
 
-- Simple
+- Simple to dev
 
 - High performance
 
