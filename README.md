@@ -22,7 +22,7 @@ A typical CMS has a lot of features, but sometimes the flexiability is compomise
 
 **Why CMF comparing to pure web framework development approach**
 
-Because anything related to content is handled by digimaker and things not related to content can be done via web framework and the CMF integrates with web framework well.
+Because things related to content is handled by digimaker and those not related to content can be done via web framework and the CMF integrates with web framework well.
 
 **What does the content mean here?**
 
