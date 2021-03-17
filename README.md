@@ -14,9 +14,8 @@ See our ongoing [documentation](https://digimaker.org/doc). [Github project](htt
 
 - From small website/web application to complex solution
 
-
 ### Why CMF comparing to typical CMS?
-A typical CMS has a lot of features, but sometimes the extendability&quality is compomised(especially in enterprise or when systems are complex). We believe the framework way is better in some scenarios to keep minimal design&open architecture(less is more :)), thus leave freedom to solution part or plugin libraries to have good quality.
+A typical CMS has a lot of features, but sometimes the flexiability is compomised(especially in enterprise or when systems are complex). We believe the framework way is better in some scenarios to keep minimal design&open architecture(less is more :)), thus leave freedom to the dever to maintain good flexiability & quality.
 
 ### Why CMF comparing to pure web framework development approach?
 Because anything related to content is handled by digimaker and things not related to content can be done via web framework and the CMF integrates with web framework well.
