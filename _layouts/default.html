@@ -22,10 +22,8 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
   </head>
   <body>
-    <a id="skip-to-content" href="#content">Skip to the content.</a>
-
+    <div style="float: right; padding:5px"><a href="https://digimaker.org/cn" style="color:white">中文</a></div>
     <header class="page-header" role="banner">
-      <div style="float: right"><a href="https://digimaker.org/cn">中文</a></div>
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
       {% if site.github.is_project_page %}
