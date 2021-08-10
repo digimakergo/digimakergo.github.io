@@ -6,7 +6,7 @@ Digimaker is written in Golang.
 
 It will be soon released, and this site will be updated. Stay tuned.
 
-See our ongoing [documentation](https://digimaker.org/doc). [Github project](https://github.com/digimakergo/digimaker)
+See our ongoing [documentation](https://digimaker.org/doc), [Github project](https://github.com/digimakergo/digimaker).
 
 - Simple to dev
 
