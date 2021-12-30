@@ -2,7 +2,7 @@ Digimaker is a Content Management Framework focusing on simplicity, flexibility 
 
 Digimaker is written in Golang.
 
-<a href="https://digimaker.org/doc"><button class="btn btn-primary">Documentation</button></a> <a href="https://github.com/digimakergo/digimaker">Github project</a>
+<a href="https://digimaker.org/doc"><button class="btn btn-primary">Documentation</button></a>  &nbsp;&nbsp; <a href="https://github.com/digimakergo/digimaker">Github project</a>
 
 ## Completely component based
 It's completely component based, both in server side and client side, both in end user and in editorial ui.
