@@ -1,35 +1,25 @@
 
 
-Digimaker is a Content Management Framework which balances simplicity & flexibility with high performance. 
+Digimaker is a Content Management Framework focusing on simplicity, flexibility and performance. 
 
 Digimaker is written in Golang.
 
-It will be soon released, and this site will be updated. Stay tuned.
+[Documentation](https://digimaker.org/doc)
 
-See our ongoing [documentation](https://digimaker.org/doc), [github project](https://github.com/digimakergo/digimaker).
+## Completely component based
+It's completely component based, both in server side and client side, both in end user and in editorial ui.
 
-- Simple to dev
+It means you can control you app entry, also means the content management feature can be well intergrated into your existing system.
 
-- High performance
+## Balanced content model
+Define your content model like object-oriented language's model, then it's can be used in backend, server api and rest api.
 
-- From small website/web application to complex solution
+You can still use ORM or sql to easily access the content data.
 
+## Beyond content
+Typical content can be articles, documents, users, products, images&videos, also can be order, subcriptions, which is mix of content and database table. 
 
-### Q&A
-**Why CMF comparing to typical CMS?**
+## Advanced permission
+Control your permission based on content types, under node, etc. It supports attribute level permission, meaning some user can create/update some fields of content.
 
-A typical CMS has a lot of features, but sometimes the flexiability is compomised(especially in enterprise or when systems are complex). We believe the framework way is better in some scenarios to keep minimal design&open architecture(less is more :)), thus leave freedom to the dever to maintain good flexiability & quality.
-
-**Why CMF comparing to pure web framework development approach**
-
-Because things related to content are handled by digimaker and those not related to content can be done via web framework and the CMF integrates with web framework well.
-
-**What does the content mean here?**
-
-Content means most common information like articles, documents, users, products, images&videos etc, which need direct backend input and frontend display with permission control.
-
-**Why call it progressive CMF?**
-
-It means with this framework, your solution/product can evolve from a small site/application to a complex solution, without hassal(keep good code quality, easy maintainability & extendability).
-
-
+Permission variable support meaning you can define permission rules and set values in content directly using editorial ui.
