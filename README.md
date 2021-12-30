@@ -2,7 +2,10 @@ Digimaker is a Content Management Framework focusing on simplicity, flexibility 
 
 Digimaker is written in Golang.
 
+<br />
 <a href="https://digimaker.org/doc"><button class="btn btn-primary">Documentation</button></a>  &nbsp;&nbsp; <a href="https://github.com/digimakergo/digimaker">Github project</a>
+
+<br />
 
 #### Completely component based
 It's completely component based, both in server side and client side, both in end user and in editorial ui.
@@ -22,5 +25,5 @@ Control your permission based on content types, under location, field value, etc
 
 Variable support meaning you can define permission rules and set values in role content directly using editorial ui.
 
-## Log&Debug-able
+#### Log&Debug-able
 You are able to see what's going on, from database query, to templates used, and permission policies. Good log&debug make development & maintaince smooth.
