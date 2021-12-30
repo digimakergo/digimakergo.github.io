@@ -18,7 +18,7 @@ You can still use ORM or sql to easily access the content data.
 Typical content can be articles, documents, users, products, images&videos, also can be order, subcriptions, which is mix of content and database table. 
 
 ## Strong permission
-Control your permission based on content types, under node, field value, etc. It supports attribute level permission, meaning some user can create/update limited fields of content.
+Control your permission based on content types, under location, field value, etc. It supports attribute level permission, meaning some user can create/update limited fields of content.
 
 Variable support meaning you can define permission rules and set values in role content directly using editorial ui.
 
