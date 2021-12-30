@@ -1,4 +1,6 @@
-theme: jekyll-theme-cayman
+#theme: jekyll-theme-cayman
+
+remote_theme: daviddarnes/alembic@main
 
 title: Digimaker CMF
 
