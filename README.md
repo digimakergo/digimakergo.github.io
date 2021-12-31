@@ -10,7 +10,7 @@ Written in Golang.
 #### Complete components based
 It's complete components based, both in server side and client side, both in end user and in editorial ui.
 
-It means you control you app entry(in server it's the index page or main function, in client it's the App.tsx(React for instance)), also means the content management features can be well intergrated into your existing system.
+It means you own the app entry(in server it's the index page or main function, in client it's the App.tsx(React for instance)), also means the content management features can be well intergrated into your existing system.
 
 #### Balanced content model design
 Define your content model like object-oriented language's class in json, then it's can be used in backend, server api and rest api automatically.
