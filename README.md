@@ -18,7 +18,7 @@ Define your content model like object-oriented language's class in json, then it
 You can still use ORM or sql to easily access the content data.
 
 #### Beyond content
-Typical content can be articles, documents, users, products, images&videos, also can be orders, subcriptions, which is mix of content and database table. 
+Typical content can be articles, documents, users, products, images&videos, also can be orders, subcriptions, which is mix of content and database table. From pure database's view, if you don't want to write input client, business logic for some table fields, digimaker can be useful here.
 
 #### Flexible permission
 Control your permission based on content types, under location, field value, etc. It supports attribute level permission, meaning some users can create/update some fields of content.
