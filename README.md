@@ -1,29 +1,29 @@
 Digimaker is a Content Management Framework focusing on simplicity, flexibility and performance. 
 
-Digimaker is written in Golang.
+Written in Golang.
 
 <br />
 <a href="https://digimaker.org/doc"><button class="btn btn-primary">Documentation</button></a>  &nbsp;&nbsp; <a href="https://github.com/digimakergo/digimaker">Github project</a>
 
 <br />
 
-#### Completely component based
-It's completely component based, both in server side and client side, both in end user and in editorial ui.
+#### Complete components based
+It's complete components based, both in server side and client side, both in end user and in editorial ui.
 
-It means you can control you app entry, also means the content management feature can be well intergrated into your existing system.
+It means you control you app entry(in server it's the index page or main function, in client it's the App.tsx), also means the content management feature can be well intergrated into your existing system.
 
 #### Balanced content model design
-Define your content model like object-oriented language's model in json, then it's can be used in backend, server api and rest api.
+Define your content model like object-oriented language's class in json, then it's can be used in backend, server api and rest api automatically.
 
 You can still use ORM or sql to easily access the content data.
 
 #### Beyond content
-Typical content can be articles, documents, users, products, images&videos, also can be order, subcriptions, which is mix of content and database table. 
+Typical content can be articles, documents, users, products, images&videos, also can be orders, subcriptions, which is mix of content and database table. 
 
-#### Strong permission
-Control your permission based on content types, under location, field value, etc. It supports attribute level permission, meaning some user can create/update limited fields of content.
+#### Flexible permission
+Control your permission based on content types, under location, field value, etc. It supports attribute level permission, meaning some users can create/update some fields of content.
 
-Variable support meaning you can define permission rules and set values in role content directly using editorial ui.
+Variable support means you can define permission rules and set values in role content directly using editorial ui.
 
 #### Log&Debug-able
-You are able to see what's going on, from database query, to templates used, and permission policies. Good log&debug make development & maintaince smooth.
+You are able to see what's going on using logs/debug tools, from database query, to templates used, and permission policies. Good log&debug make development & maintaince easier.
