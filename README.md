@@ -6,7 +6,7 @@ Written in Golang.
 <a href="https://digimaker.org/doc"><button class="btn btn-primary">Documentation</button></a>  &nbsp;&nbsp; <a href="https://github.com/digimakergo/digimaker">Github project</a>
 
 <br /><br />
-<a href="https://digimaker.org/doc">digimaker-ui(client library) documentation</a>
+<a href="https://digimaker.org/doc/digimaker-ui">digimaker-ui(client library) documentation</a>
 
 <br />
 
